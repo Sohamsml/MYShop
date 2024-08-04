@@ -1,5 +1,5 @@
 ## :star2: About the Project
-MYShop is an Ecommerce web application built with Next.js and MongoDB.
+MyShop is an Ecommerce web application built with Next.js and MongoDB.
 
 ## <a href="https://my-shop-ecommerce-website-gfpenuezh-Sohamsml.vercel.app/" target="_blank">LIVE DEMO 💥</a>
 
